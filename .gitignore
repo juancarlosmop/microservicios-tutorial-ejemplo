@@ -32,4 +32,4 @@ build/
 ### VS Code ###
 .vscode/
 ######
-git rm --cached zipkin-server-2.24.0-exec
+/Zipkin
